@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'cherl';
-    src: url('./fonts/CHERI___.TTF') format('woff2'), /* Modern Browsers */
+    src: url('./fonts/Cherl2.ttf') format('woff2'), /* Modern Browsers */
          url('path_to_custom_font.woff') format('woff');   /* Older Browsers */
   }
 @font-face {
     font-family: 'cherl2';
-    src: url('./fonts/CHERL\ white_.TTF') format('woff2'), /* Modern Browsers */
+    src: url('./fonts/Cherl.ttf') format('woff2'), /* Modern Browsers */
          url('path_to_custom_font.woff') format('woff');   /* Older Browsers */
   }
 
