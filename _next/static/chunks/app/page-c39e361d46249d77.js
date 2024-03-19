@@ -239,12 +239,12 @@
                         (0, i.jsx)("a", {
                           href: "/#WHO",
                           className: "menu_button w-button",
-                          children: "WHO IS SLERF",
+                          children: "WHO IS SNEEL",
                         }),
                         (0, i.jsx)("a", {
                           href: "/#TOK",
                           className: "menu_button w-button",
-                          children: "SLERFNOMICS",
+                          children: "SNEELNOMICS",
                         }),
                         
                         (0, i.jsx)("a", {
@@ -305,7 +305,7 @@
                                   src: "/images/coin.png",
                                   className: "coin",
                                 }),
-                                "SLERF",
+                                "SNEEL",
                               ],
                             }),
                             (0, i.jsx)("div", {
@@ -473,14 +473,14 @@
                           children: [
                             (0, i.jsx)("div", {
                               className: "h1 blk",
-                              children: "WHO IS SLERF",
+                              children: "WHO IS SNEEL",
                             }),
                             (0, i.jsx)("div", {
                               className: "block_paragraph",
                               children: (0, i.jsx)("p", {
                                 className: "para",
                                 children:
-                                  "Once upon a time, nestled in the lush canopies of the Amazon rainforest, lived Slerf the sloth, famed for his lethargic yet endearing ways. One fateful night, as he gazed upon the shimmering moon, an idea sparked within him. Determined to reach the celestial body, Slerf embarked on his slow and steady journey, inching his way through the dense foliage. With unwavering determination, he traversed rivers and climbed towering trees, each movement deliberate and calculated. As the days turned into weeks, Slerf's perseverance paid off, as he finally reached the moon, basking in its ethereal glow, becoming the first sloth to achieve such a feat. And from that moment on, Slerf's legendary ascent inspired creatures across blockchains to reach for the stars, proving that even the slowest among us can achieve greatness with patience and determination.",
+                                  "Once upon a time, nestled in the lush canopies of the Amazon rainforest, lived Sneel the sloth, famed for his lethargic yet endearing ways. One fateful night, as he gazed upon the shimmering moon, an idea sparked within him. Determined to reach the celestial body, Sneel embarked on his slow and steady journey, inching his way through the dense foliage. With unwavering determination, he traversed rivers and climbed towering trees, each movement deliberate and calculated. As the days turned into weeks, Sneel's perseverance paid off, as he finally reached the moon, basking in its ethereal glow, becoming the first sloth to achieve such a feat. And from that moment on, Sneel's legendary ascent inspired creatures across blockchains to reach for the stars, proving that even the slowest among us can achieve greatness with patience and determination.",
                               }),
                             }),
                           ],
@@ -517,7 +517,7 @@
                         children: [
                           (0, i.jsx)("div", {
                             className: "h1",
-                            children: "SLERFNOMICS",
+                            children: "SNEELNOMICS",
                           }),
                           (0, i.jsxs)("div", {
                             "data-w-id": "4c6bb17c-4a56-13b4-3585-2eb3e7861ee4",
