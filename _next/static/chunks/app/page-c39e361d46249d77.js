@@ -199,7 +199,7 @@
           (0, c.useEffect)(() => {
             if (document) {
               let e = document.createElement("img");
-              (e.src = "/images/coin.png"), r([e]);
+              // (e.src = "/images/coin.png"), r([e]);
             }
             (async () => {
               let e = await fetch(
@@ -426,7 +426,7 @@
                                       children: "$10M",
                                     }),
                                     (0, i.jsx)("img", {
-                                      src: "/images/push.png",
+                                      // src: "/images/push.png",
                                       className: "slerf-progress",
                                     }),
                                     (0, i.jsxs)("div", {
