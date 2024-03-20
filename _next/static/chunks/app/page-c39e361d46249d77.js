@@ -258,7 +258,7 @@
                       className: "menu_right",
                       children: [
                         (0, i.jsx)("a", {
-                          href: "https://t.me/+m0SOLSnFw-A2MDYx",
+                          href: "tglink",
                           target: "_blank",
                           className: "socials tg w-button",
                         }),
